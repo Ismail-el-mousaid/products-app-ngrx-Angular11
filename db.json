@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "43007",
+      "quantity": 400,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "XBox",
+      "price": 7100,
+      "quantity": 200,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "hh",
+      "price": "65",
+      "quantity": "667",
+      "selected": true
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "id": 6
+    }
+  ]
+}
